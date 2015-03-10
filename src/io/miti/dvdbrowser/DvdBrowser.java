@@ -1222,9 +1222,9 @@ public final class DvdBrowser implements ComponentListener, ItemListener
     buf.append("Written by Mike Wallace, 2006.\n");
     buf.append("Released under the MIT license. Free for any use.\n");
     buf.append("Portions of the source code copyright JGoodies Karsten Lentzsch.\n");
-    buf.append("The DVD data is copyrighted 1999-2006 by Doug MacLean ")
+    buf.append("The DVD data is copyrighted 1999-2015 by Doug MacLean ")
        .append("and Michael E. Carver\n");
-    buf.append("The DVD data is available at http://hometheaterinfo.com/dvdlist.htm\n");
+    buf.append("The DVD data is from http://hometheaterinfo.com/dvdlist.htm\n");
     buf.append("Doug's site is http://www.hometheaterinfo.com/\n");
     buf.append("Michael's site is http://dvdlist.kazart.com/\n\n");
     buf.append("Date of the input file: ").append(inputFileDate).append("\n");
