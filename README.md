@@ -18,4 +18,6 @@ To run the application, build it using 'ant clean dist' and then either double-c
 
 Part of the code is copyright JGoodies Karsten Lentzsch. This is limited to portions of the GUI.
 
+The DVD data is copyrighted 1999-2015 by Doug McLean and Michael E. Carver.  The DVD data is from http://hometheaterinfo.com/dvdlist.htm.  Doug's site is http://www.hometheaterinfo.com/.  Michael's site is http://dvdlist.kazart.com/.
+
 The source code is released under the MIT license (other than the JGoodies code).
