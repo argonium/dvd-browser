@@ -1,4 +1,4 @@
-# dvd-browser
+# DVD Browser
 Search released DVDs
 
 DvdBrowser is a standalone Java GUI application (using Swing) that allows a user to search the data provided by the Home Theater Info site. The data is a list of all region 1 DVDs released so far. The list is updated every week; the download includes the file released on 09 March 2015. The data consists of the DVD's title, UPC code, release date (movie and DVD), rating, genre, aspect ratio and some other data. DvdBrowser is available for free. The application offers the following options for searching for a match on a DVD's title:
@@ -7,6 +7,8 @@ DvdBrowser is a standalone Java GUI application (using Swing) that allows a user
 * Soundex (words that sound similar)
 * Contains
 * Regular expression
+
+![DVD Browser](http://argonium.github.io/dvdb.png)
 
 The first two search modes reuse the code featured elsewhere on this web site. A wildcard search means the '\*' and '%' characters have a special meaning: '\*' means to match any string of consecutive characters (zero or more), and '%' means to match any one character. A Soundex search means to match on words that sound similar.
 
