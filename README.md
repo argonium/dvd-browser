@@ -1,7 +1,7 @@
 # DVD Browser
 Search released DVDs
 
-DvdBrowser is a standalone Java GUI application (using Swing) that allows a user to search the data provided by the Home Theater Info site. The data is a list of all region 1 DVDs released so far. The list is updated every week; the download includes the file released on 09 March 2015. The data consists of the DVD's title, UPC code, release date (movie and DVD), rating, genre, aspect ratio and some other data. DvdBrowser is available for free. The application offers the following options for searching for a match on a DVD's title:
+DvdBrowser is a standalone Java GUI application (using Swing) that allows a user to search the data provided by the [Home Theater Info](http://hometheaterinfo.com/dvdlist.htm) site. The data is a list of all region 1 DVDs released so far. The list is updated every week; the download includes the file released on 09 March 2015. The data consists of the DVD's title, UPC code, release date (movie and DVD), rating, genre, aspect ratio and some other data. DvdBrowser is available for free. The application offers the following options for searching for a match on a DVD's title:
 
 * Wildcard searches (using '*' and '%')
 * Soundex (words that sound similar)
